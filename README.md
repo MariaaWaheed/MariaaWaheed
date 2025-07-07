@@ -1,9 +1,9 @@
 ![Header](./maria_header.png)
 # 💫 About Me:
-I’m a passionate AI Engineer based in Germany.  <br>🔭 Currently working on cutting-edge machine learning and deep learning projects.  <br>🌱 Always learning new AI frameworks, tools, and techniques.  <br><br>**Connect with me:**<br>- [LinkedIn](https://www.linkedin.com/in/mariawaheed/)<br>- ✉️ mariaabwaheed@gmail.com
+I’m a passionate AI Engineer based in Germany.  <br>🔭 Currently working on cutting-edge machine learning and deep learning projects.  <br>🌱 Always learning new AI frameworks, tools, and techniques.
 
 
-## 🌐 Socials:
+## 🌐 Connect Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariawaheed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariaabwaheed@gmail.com) 
 
 # 💻 Tech Stack:

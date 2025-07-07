@@ -16,7 +16,7 @@ I’m a passionate AI Engineer based in Germany.  <br>🔭 Currently working on 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MariaaWaheed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Favourite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo

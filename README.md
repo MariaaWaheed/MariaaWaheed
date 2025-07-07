@@ -1,6 +1,6 @@
 ![Header](./maria_header.png)
 # 💫 About Me:
-I’m a passionate AI Engineer based in Germany.  <br>🔭 Currently working on cutting-edge machine learning and deep learning projects.  <br>🌱 Always learning new AI frameworks, tools, and techniques.
+I’m a passionate ML Engineer based in Germany.  <br>🔭 Currently working on cutting-edge machine learning and deep learning projects.  <br>🌱 Always learning new AI frameworks, tools, and techniques.
 
 
 ## 🌐 Connect Me:
